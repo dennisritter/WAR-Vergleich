@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=WAR-vergleich.tex
 
 [Frame0_View0,0]
-TopLine=101
-Cursor=6921
+TopLine=137
+Cursor=9419
 
 [Frame1]
 Flags=0
