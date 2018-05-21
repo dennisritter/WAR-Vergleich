@@ -33,12 +33,6 @@ S.~Hobert, A.~Reiners, P.~Freier, und M.~Schumann, ,,{StudiDuell App –
   Konzept},'' in \emph{DeLFI 2017 - Die 15. e-Learning Fachtagung Informatik},
   2017.
 
-\bibitem{Gordillo2015}
-A.~Gordillo, E.~Barra, und J.~Quemada, ,,{Enhancing web-based learning
-  resources with quizzes through an authoring tool and an audience response
-  system},'' \emph{Proceedings - Frontiers in Education Conference, FIE}, Vol.
-  2015-February, Nr. February, 2015.
-
 \bibitem{Quibeldey-Cirkel2013}
 \BIBentryALTinterwordspacing
 K.~Quibeldey-Cirkel und C.~Thelen, ,,{ARSnova: ein Audience Response System
@@ -56,5 +50,22 @@ W.~Reinhardt, M.~Sievers, J.~Magenheim, D.~Kundisch, P.~Herrmann, M.~Beutner,
   0.5em minus 0.4em\relax Springer, Berlin, Heidelberg, 2012, S. 507--508.
   [Online]. Available: \url{https://pingo.upb.de/}
 \BIBentrySTDinterwordspacing
+
+\bibitem{Gordillo2015}
+A.~Gordillo, E.~Barra, und J.~Quemada, ,,{Enhancing web-based learning
+  resources with quizzes through an authoring tool and an audience response
+  system},'' \emph{Proceedings - Frontiers in Education Conference, FIE}, Vol.
+  2015-February, Nr. February, 2015.
+
+\bibitem{Davis1989}
+F.~D. Davis, R.~P.Bagozzi, und P.~R. Warshaw, ,,{User Acceptance Of Computer
+  Technology A Comparison Of Two Theoritical Models},'' \emph{Institute of
+  Management Sciences}, Vol.~35, Nr.~8, S. 982, 1989.
+
+\bibitem{Barra2014}
+E.~Barra, A.~Gordillo, und J.~Quemada, ,,{Virtual Science Hub: An Open Source
+  Platform to Enrich Science Teaching},'' \emph{International Journal of
+  Social, Behavioral, Educational, Economic, Business and Industrial
+  Engineering}, Vol.~8, Nr.~3, S. 741 -- 746, 2014.
 
 \end{thebibliography}
