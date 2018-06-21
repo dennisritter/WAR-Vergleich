@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=WAR-vergleich.tex
 
 [Frame0_View0,0]
-TopLine=356
-Cursor=27069
+TopLine=57
+Cursor=3228
 
 [Frame1]
 Flags=0
@@ -35,8 +35,8 @@ Class=BibTeXView
 Document=bibfile.bib
 
 [Frame1_View0,0]
-TopLine=134
-Cursor=9139
+TopLine=120
+Cursor=8541
 
 [SessionInfo]
 FrameCount=2
