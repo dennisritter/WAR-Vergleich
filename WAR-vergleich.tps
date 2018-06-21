@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=972
-NormalPos.bottom=915
+NormalPos.right=586
+NormalPos.bottom=910
 Class=LaTeXView
 Document=WAR-vergleich.tex
 
 [Frame0_View0,0]
-TopLine=57
-Cursor=3228
+TopLine=23
+Cursor=961
 
 [Frame1]
 Flags=0
@@ -29,14 +29,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=972
-NormalPos.bottom=915
+NormalPos.right=586
+NormalPos.bottom=910
 Class=BibTeXView
 Document=bibfile.bib
 
 [Frame1_View0,0]
-TopLine=120
-Cursor=8541
+TopLine=41
+Cursor=2491
 
 [SessionInfo]
 FrameCount=2
